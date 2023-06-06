@@ -1,4 +1,5 @@
 # Higher-Lower-Instagram
+Run higher_lower.py to play.<br>
 A copy of the <a href="https://www.higherlowergame.com/">Higher Lower</a> game, but with Instagram followers.<br>
 You will be asked: <em>Type 'y' to play a game of 'Higher Lower':</em><br>
 If you think option A has more followers, then type <em>a</em> or <em>A</em>, otherwise <em>b</em> or <em>B</em>
